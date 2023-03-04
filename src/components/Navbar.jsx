@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-      <nav className="Navbar">
+      <nav className="navbar">
         <img src="src\assets\airbnb_logo.png" className="nav--logo"/>
       </nav>
     )
